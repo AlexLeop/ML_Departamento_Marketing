@@ -1,2 +1,2 @@
-# ML_Departamento_Marketing
-O objetivo deste projeto é classificar grupos de consumidores com enterresses em comum para o departamento de Marketing
+# ML_Departamento_Marketin
+O objetivo deste projeto é classificar grupos de consumidores com enteresse em comum para auxiliar o departamento de marketing
